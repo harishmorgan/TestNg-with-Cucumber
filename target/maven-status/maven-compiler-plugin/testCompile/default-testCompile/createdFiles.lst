@@ -1,2 +1,3 @@
 com\stepDef\CucumberRunnerTests.class
+com\stepDef\FailedRunnerTests.class
 com\stepDef\LoginPageDefinitions.class

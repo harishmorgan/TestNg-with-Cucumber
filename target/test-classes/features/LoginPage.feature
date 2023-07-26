@@ -17,4 +17,4 @@ Feature: Login to sauceLabsDemo Application
       | username | password  | errorMessage                                                              |
       | Admin    | admin12$$ | Epic sadface: Username and password do not match any user in this service |
       | admin$$  | admin123  | Epic sadface: Username and password do not match any user in this service |
-      | abc123   | xyz$$     | Epic sadface: Username and password do not match any user in this service |
+      | abc123   | xyz$$     | Epic sadface: Username and password do not match any user in this service | 												 |
